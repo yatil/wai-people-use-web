@@ -1,6 +1,7 @@
 ---
 title: "Quelques utilisateurs du Web"
 order: 1
+lang: fr
 footer: >
   <p>Traduction : Stéphane Deschamps pour <a href="http://www.w3.org/WAI/EO/" hreflang="en">EOWG</a>. La seule version officielle est [[@@URL to official English version]].</p>
   <p><strong>Date :</strong> dernière mise à jour de cette traduction le @@.</p>
